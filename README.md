@@ -1,3 +1,3 @@
 # Project_Portfolios
 
-Through the use of R and Python, mental health trends in tech space are analyzed.
+Through the use of R and Python, mental health trends in the tech space are analyzed.
